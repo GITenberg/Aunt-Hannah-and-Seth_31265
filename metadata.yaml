@@ -1,0 +1,41 @@
+_repo: Aunt-Hannah-and-Seth_31265
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31265-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Otis, James
+    alias: Kaler, James Otis
+    birthdate: 1848
+    deathdate: 1912
+    gutenberg_agent_id: '1433'
+    url: http://www.gutenberg.org/2009/agents/1433
+description: ''
+gutenberg_issued: '2010-02-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Attitude change -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Empathy -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'People with disabilities -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Gardens -- Juvenile fiction'
+- !lcsh 'Aunts -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Inheritance and succession -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+title: Aunt Hannah and Seth
+url: http://www.gutenberg.org/ebooks/31265
